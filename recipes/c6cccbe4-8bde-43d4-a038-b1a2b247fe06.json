@@ -1,0 +1,37 @@
+{
+  "id": "c6cccbe4-8bde-43d4-a038-b1a2b247fe06",
+  "title": "Pinzini ripieni",
+  "slug": "pinzini-ripieni",
+  "description": null,
+  "ingredients": [
+    "Farina di tipo 00 500 gr",
+    "Acqua frizzante fredda 225 ml",
+    "Bicarbonato 1/2 cucchiaino",
+    "Sale 1 cucchiaino raso",
+    "Olio d'oliva 1 cucchiaio",
+    "Stracchino 50 gr"
+  ],
+  "steps": [
+    "Unire la farina con il sale",
+    "Aggiungere il bicarbonato",
+    "Aggiungere lo stracchino e l'olio",
+    "Impastare per 10 minuti unendo l'acqua fino ad ottenere un panetto liscio ed omogeneo",
+    "Coprirlo e lasciarlo riposare per 2 ore (non deve lievitare)",
+    "A questo punto si può tagliare in pezzi e tirarlo per poi farcirlo a piacere"
+  ],
+  "prep_time": null,
+  "cook_time": null,
+  "servings": null,
+  "difficulty": null,
+  "categories": [
+    "antipasti",
+    "vegetariano"
+  ],
+  "notes": null,
+  "source_url": null,
+  "source_type": "manual",
+  "image_urls": [],
+  "video_urls": [],
+  "created_at": "2026-04-07T20:45:46.011339+00:00",
+  "updated_at": null
+}
