@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "a62785a5-3a9b-41c5-a258-3de2118c4da4",
+    "title": "Ali di pollo alla griglia: Smoked Chicken Wings Americane",
+    "slug": "ali-di-pollo-alla-griglia-smoked-chicken-wings-americane",
+    "description": "Le Smoked Chicken Wings Americane sono un classico della cucina BBQ, famose per il loro sapore intenso, la pelle croccante e le salse irresistibili. Questa ricetta autentica svela i segreti per una cottura perfetta, combinando marinatura, affumicatura e una doppia fase di cottura per risultati succosi e croccanti.",
+    "categories": [
+      "antipasti",
+      "secondi",
+      "carne"
+    ],
+    "prep_time": 20,
+    "cook_time": 50,
+    "servings": 6,
+    "difficulty": "facile",
+    "source_url": "https://www.passionebbq.it/ali-di-pollo-alla-griglia-chicken-wings-americane/",
+    "source_type": "url",
+    "image_urls": [
+      "https://www.passionebbq.it/wp-content/uploads/2021/12/Smoked-Chicken-Wings.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2021/12/Ali-di-pollo-affumicate-500x500.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/marinata-smoked-chicken-wings-300x225.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/Preparazione-alette-affumicate-allamericana-300x225.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/Smoked-chicken-wings-300x185.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/alette-di-pollo-affumicate-300x186.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-04-07T20:38:00.407832+00:00"
+  }
+]
