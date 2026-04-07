@@ -1,5 +1,28 @@
 [
   {
+    "id": "7c213ca9-c640-42cd-a824-213b38744a23",
+    "title": "Pizza napoletana",
+    "slug": "pizza-napoletana",
+    "description": "Una ricetta dettagliata per preparare la vera pizza napoletana, con istruzioni precise per l'impasto e la lievitazione.",
+    "categories": [
+      "pizza",
+      "vegetariano"
+    ],
+    "prep_time": null,
+    "cook_time": 5,
+    "servings": 1,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "manual",
+    "image_urls": [
+      "../default.jpg"
+    ],
+    "video_urls": [
+      "https://www.youtube.com/watch?v=Cq90lUQUCUo"
+    ],
+    "created_at": "2026-04-07T20:46:35.451013+00:00"
+  },
+  {
     "id": "4e8bc246-3181-4783-9933-ae25a7216a8f",
     "title": "Pizza in teglia al farro",
     "slug": "pizza-in-teglia-al-farro",
