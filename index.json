@@ -1,5 +1,35 @@
 [
   {
+    "id": "a432fcac-f51f-4272-88a4-c411266b26c3",
+    "title": "Ali di pollo alla griglia: Smoked Chicken Wings Americane",
+    "slug": "ali-di-pollo-alla-griglia-smoked-chicken-wings-americane",
+    "description": "Le Smoked Chicken Wings Americane sono un classico della cucina americana, famose per il loro sapore intenso, la pelle croccante e le salse irresistibili. Sono uno snack diffuso negli Stati Uniti, semplici e veloci da preparare, perfette per ogni occasione.",
+    "categories": [
+      "carne",
+      "antipasti",
+      "secondi",
+      "veloce",
+      "bbq"
+    ],
+    "prep_time": 20,
+    "cook_time": 50,
+    "servings": 6,
+    "difficulty": "facile",
+    "source_url": "https://www.passionebbq.it/ali-di-pollo-alla-griglia-chicken-wings-americane/",
+    "source_type": "url",
+    "image_urls": [
+      "https://www.passionebbq.it/wp-content/uploads/2021/12/Ali-di-pollo-affumicate.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/marinata-smoked-chicken-wings.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/Preparazione-alette-affumicate-allamericana.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/Smoked-chicken-wings.jpg",
+      "https://www.passionebbq.it/wp-content/uploads/2024/02/alette-di-pollo-affumicate.jpg"
+    ],
+    "video_urls": [
+      "https://www.youtube.com/watch?v=bjKq4_qVv1Y"
+    ],
+    "created_at": "2026-04-07T21:09:48.198787+00:00"
+  },
+  {
     "id": "a9e9024f-cb55-4cc1-aa63-85ae9ec2cdf1",
     "title": "Rosticciana | Costine alla Griglia",
     "slug": "rosticciana-costine-alla-griglia",
@@ -30,33 +60,6 @@
       "https://www.youtube.com/watch?v=GjCuxxbjGX8"
     ],
     "created_at": "2026-04-07T21:03:16.190032+00:00"
-  },
-  {
-    "id": "a432fcac-f51f-4272-88a4-c411266b26c3",
-    "title": "Ali di pollo alla griglia: Smoked Chicken Wings Americane",
-    "slug": "ali-di-pollo-alla-griglia-smoked-chicken-wings-americane",
-    "description": "Le Smoked Chicken Wings Americane sono un classico della cucina americana, famose per il loro sapore intenso, la pelle croccante e le salse irresistibili. Sono uno snack diffuso negli Stati Uniti, semplici e veloci da preparare, perfette per ogni occasione.",
-    "categories": [
-      "carne",
-      "antipasti",
-      "secondi",
-      "veloce"
-    ],
-    "prep_time": 20,
-    "cook_time": 50,
-    "servings": 6,
-    "difficulty": null,
-    "source_url": "https://www.passionebbq.it/ali-di-pollo-alla-griglia-chicken-wings-americane/",
-    "source_type": "url",
-    "image_urls": [
-      "https://www.passionebbq.it/wp-content/uploads/2021/12/Ali-di-pollo-affumicate.jpg",
-      "https://www.passionebbq.it/wp-content/uploads/2024/02/marinata-smoked-chicken-wings.jpg",
-      "https://www.passionebbq.it/wp-content/uploads/2024/02/Preparazione-alette-affumicate-allamericana.jpg",
-      "https://www.passionebbq.it/wp-content/uploads/2024/02/Smoked-chicken-wings.jpg",
-      "https://www.passionebbq.it/wp-content/uploads/2024/02/alette-di-pollo-affumicate.jpg"
-    ],
-    "video_urls": [],
-    "created_at": "2026-04-07T21:01:57.490452+00:00"
   },
   {
     "id": "40d262e2-6009-46a5-a26f-357f72c00e75",
