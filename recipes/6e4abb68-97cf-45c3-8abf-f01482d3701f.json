@@ -1,0 +1,48 @@
+{
+  "id": "6e4abb68-97cf-45c3-8abf-f01482d3701f",
+  "title": "Biscotti sbrisoloni",
+  "slug": "biscotti-sbrisoloni",
+  "description": null,
+  "ingredients": [
+    "Farina 00 220 gr",
+    "Zucchero 120 gr",
+    "Burro 120 gr",
+    "Cioccolato fondente 95 gr",
+    "Latte 25 gr",
+    "Cacao 25 gr",
+    "Uova 1",
+    "Mandorle 120 gr a pezzetti",
+    "Farina di mais 60 gr",
+    "Tuorlo d'uovo 1",
+    "Lievito in polvere per dolci 4 gr",
+    "Sale Un pizzico"
+  ],
+  "steps": [
+    "Fondere 25  gr di cioccolato e sminuzzare il resto",
+    "Setacciare la farina 00 , il lievito e il cacao, mescolarli, unire anche la farina di mais e formare una fontana sul piano di lavoro",
+    "Sbattere l'uovo, prelevarne 15 grammi (il resto non serve) e sbatteteli in una ciotolina con il tuorlo, il latte e un pizzico di sale.",
+    "Mescolare il burro con il cioccolato fuso e lo zucchero",
+    "Versare al centro della fontana prima il burro al cioccolato, poi le uova sbattute con il latte",
+    "Iniziare a lavorare l’impasto amalgamando prima tra loro gli ingredienti al centro, poi incorporando le farine",
+    "Completate unendo anche le mandorle e il cioccolato a pezzetti",
+    "Formare delle sfere di circa 3 cm di diametro, accomodarle su una o più placche foderate di carta da forno e schiacciarle leggermente in modo da formare dei dischi irregolari",
+    "Infornarli a 180°C per 15-18 minuti",
+    "Sfornare i biscotti e farli raffreddare del tutto prima di gustarli"
+  ],
+  "prep_time": 75,
+  "cook_time": 18,
+  "servings": null,
+  "difficulty": null,
+  "categories": [
+    "dolci"
+  ],
+  "notes": null,
+  "source_url": null,
+  "source_type": "manual",
+  "image_urls": [
+    "biscotti_sbrisoloni.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-04-07T20:45:02.755383+00:00",
+  "updated_at": null
+}
