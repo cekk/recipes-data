@@ -1,0 +1,51 @@
+{
+  "id": "a432fcac-f51f-4272-88a4-c411266b26c3",
+  "title": "Ali di pollo alla griglia: Smoked Chicken Wings Americane",
+  "slug": "ali-di-pollo-alla-griglia-smoked-chicken-wings-americane",
+  "description": "Le Smoked Chicken Wings Americane sono un classico della cucina americana, famose per il loro sapore intenso, la pelle croccante e le salse irresistibili. Sono uno snack diffuso negli Stati Uniti, semplici e veloci da preparare, perfette per ogni occasione.",
+  "ingredients": [
+    "1,5 kg ali di pollo",
+    "250 gr burro",
+    "100 ml succo di limone",
+    "2 cucchiai paprika affumicata",
+    "2 cucchiai zucchero di canna integrale",
+    "1 cucchiaio sale",
+    "1 cucchiaino aglio in polvere",
+    "1 cucchiaino cipolla in polvere",
+    "1 cucchiaino pepe nero"
+  ],
+  "steps": [
+    "Prepara la marinata sciogliendo dolcemente il burro in un pentolino, aggiungi il succo di limone, paprika, zucchero di canna, sale, aglio in polvere, cipolla in polvere e pepe nero, mescolando vigorosamente. Togli dal fuoco e lascia raffreddare, mescolando di tanto in tanto.",
+    "Lava bene le ali di pollo, asciugale ed elimina eventuali residui di piume. Taglia le ali in tre parti lungo le articolazioni ed elimina l’estremità più sottile.",
+    "Disponi le alette pulite ed asciutte in un recipiente abbastanza grande, versa tutta la marinata, mescola delicatamente per ricoprire tutte le alette. Chiudi con pellicola e riponi in frigo per qualche ora (almeno 3 ore, idealmente una notte intera), rimescolando di tanto in tanto.",
+    "Prepara il barbecue per una cottura indiretta a 160 °C. Se a carbone, versa le braci da un lato; se a gas, accendi solo i bruciatori laterali.",
+    "Elimina la marinata in eccesso dalle alette e cuocile a calore indiretto, disponendole sulla griglia con la pelle rivolta verso l’alto. (Suggerimento: usa leccarde di alluminio sotto per raccogliere i liquidi).",
+    "Se desideri, aggiungi legno di ciliegio o pecan direttamente sulle braci (o in una smoker box per BBQ a gas) e affumica per i primi 20 minuti.",
+    "Chiudi il coperchio e cuoci per circa 40 minuti, mantenendo stabile la temperatura. Verifica con un termometro per carne che la temperatura interna raggiunga almeno 80 °C, facendo attenzione a non toccare le ossa.",
+    "Trasferisci le alette in cottura diretta per qualche secondo, il tempo di rendere la pelle croccante e abbrustolita.",
+    "Servi immediatamente ancora calde, mangiandole rigorosamente con le mani."
+  ],
+  "prep_time": 20,
+  "cook_time": 50,
+  "servings": 6,
+  "difficulty": null,
+  "categories": [
+    "carne",
+    "antipasti",
+    "secondi",
+    "veloce"
+  ],
+  "notes": "Per un sapore ottimale, marina le ali per almeno 3 ore, idealmente una notte intera. Mantieni una temperatura costante di 160°C durante la cottura indiretta per una cottura uniforme e per evitare di bruciare la pelle. Per una pelle extra croccante, alza la temperatura nella fase finale di cottura diretta. Sperimenta con legni diversi per l'affumicatura (ciliegio, pecan, melo, acero) e bilancia il fumo per non sovrastare il sapore del pollo. Servi con salse classiche americane (BBQ, Buffalo, Honey Mustard, Ranch o Blue Cheese) e contorni come patate fritte, coleslaw, sottaceti o verdure grigliate. È possibile preparare le ali senza affumicatura o cuocerle al forno, ma il risultato sarà leggermente diverso.",
+  "source_url": "https://www.passionebbq.it/ali-di-pollo-alla-griglia-chicken-wings-americane/",
+  "source_type": "url",
+  "image_urls": [
+    "https://www.passionebbq.it/wp-content/uploads/2021/12/Ali-di-pollo-affumicate.jpg",
+    "https://www.passionebbq.it/wp-content/uploads/2024/02/marinata-smoked-chicken-wings.jpg",
+    "https://www.passionebbq.it/wp-content/uploads/2024/02/Preparazione-alette-affumicate-allamericana.jpg",
+    "https://www.passionebbq.it/wp-content/uploads/2024/02/Smoked-chicken-wings.jpg",
+    "https://www.passionebbq.it/wp-content/uploads/2024/02/alette-di-pollo-affumicate.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-04-07T21:01:57.490452+00:00",
+  "updated_at": null
+}
