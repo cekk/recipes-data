@@ -1,5 +1,30 @@
 [
   {
+    "id": "4262a6cd-a3d9-46a8-a047-dfa154678d56",
+    "title": "Pizza in teglia al farro",
+    "slug": "pizza-in-teglia-al-farro",
+    "description": "Una ricetta per preparare una pizza in teglia con farina di farro, caratterizzata da una lunga lievitazione in frigorifero per un impasto leggero e digeribile.",
+    "categories": [
+      "pizza",
+      "vegetariano"
+    ],
+    "prep_time": null,
+    "cook_time": 30,
+    "servings": null,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "manual",
+    "image_urls": [
+      "https://raw.githubusercontent.com/cekk/recipes-old/master/data/default.jpg"
+    ],
+    "video_urls": [
+      "https://youtu.be/WkebF-jotmw",
+      "https://youtu.be/Zsa-dyBBqkM",
+      "https://youtu.be/Wnx5FmASACo"
+    ],
+    "created_at": "2026-04-07T20:53:57.164826+00:00"
+  },
+  {
     "id": "2ee4405b-0e2a-4f32-b0b4-5e084a0823c4",
     "title": "Pizza al farro",
     "slug": "pizza-al-farro",
