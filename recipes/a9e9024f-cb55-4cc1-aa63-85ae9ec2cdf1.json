@@ -22,10 +22,11 @@
   "prep_time": 30,
   "cook_time": 60,
   "servings": 4,
-  "difficulty": null,
+  "difficulty": "facile",
   "categories": [
     "secondi",
-    "carne"
+    "carne",
+    "bbq"
   ],
   "notes": "Concettualmente è possibile preparare anche una rosticciana al forno, in questo caso sarà importantissimo sgrassarla il più possibile perché ovviamente nella rosticciana al forno l’effetto griglia lo si và un po’ a perdere e il rischio è che il sapore del grasso possa diventare stucchevole. su alcuni forni è possibile utilizzare la modalità GRILL che favorirà il formarsi della crosticina, non sarà forse la stessa cosa ma piuttosto che niente…. meglio una rosticciana al forno",
   "source_url": "https://share.google/TKZCdZXGSYEhPeND3",
@@ -45,6 +46,6 @@
   "video_urls": [
     "https://www.youtube.com/watch?v=GjCuxxbjGX8"
   ],
-  "created_at": "2026-04-07T21:03:16.190032+00:00",
-  "updated_at": null
+  "created_at": "2026-04-07T21:10:40.942207+00:00",
+  "updated_at": "2026-04-07T21:10:41.202264+00:00"
 }
