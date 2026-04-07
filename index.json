@@ -1,5 +1,26 @@
 [
   {
+    "id": "6eb2f7d8-92d1-4890-ae5c-16beb825be1a",
+    "title": "Pane senza impasto integrale",
+    "slug": "pane-senza-impasto-integrale",
+    "description": null,
+    "categories": [
+      "pane",
+      "vegetariano"
+    ],
+    "prep_time": null,
+    "cook_time": 40,
+    "servings": null,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "manual",
+    "image_urls": [
+      "../default.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-04-07T20:45:19.833703+00:00"
+  },
+  {
     "id": "6e4abb68-97cf-45c3-8abf-f01482d3701f",
     "title": "Biscotti sbrisoloni",
     "slug": "biscotti-sbrisoloni",
