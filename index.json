@@ -1,5 +1,26 @@
 [
   {
+    "id": "5ff85775-60b2-458e-b025-105ab2ea2354",
+    "title": "Pane senza impasto integrale",
+    "slug": "pane-senza-impasto-integrale",
+    "description": null,
+    "categories": [
+      "pane",
+      "vegetariano"
+    ],
+    "prep_time": 1440,
+    "cook_time": 40,
+    "servings": null,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "manual",
+    "image_urls": [
+      "https://raw.githubusercontent.com/cekk/recipes-old/master/data/default.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-04-07T20:52:50.071158+00:00"
+  },
+  {
     "id": "da8cc188-c182-42d0-ab02-764e39ea68fe",
     "title": "Biscotti sbrisoloni",
     "slug": "biscotti-sbrisoloni",
