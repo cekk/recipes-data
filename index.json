@@ -1,30 +1,5 @@
 [
   {
-    "id": "4e8bc246-3181-4783-9933-ae25a7216a8f",
-    "title": "Pizza in teglia al farro",
-    "slug": "pizza-in-teglia-al-farro",
-    "description": "Una ricetta per preparare una deliziosa pizza in teglia utilizzando farina di farro, con una lunga lievitazione in frigorifero per un impasto leggero e digeribile.",
-    "categories": [
-      "pizza",
-      "vegetariano"
-    ],
-    "prep_time": 30,
-    "cook_time": 30,
-    "servings": null,
-    "difficulty": "medio",
-    "source_url": null,
-    "source_type": "manual",
-    "image_urls": [
-      "pizza_teglia_farro.jpg"
-    ],
-    "video_urls": [
-      "https://youtu.be/WkebF-jotmw",
-      "https://youtu.be/Zsa-dyBBqkM",
-      "https://youtu.be/Wnx5FmASACo"
-    ],
-    "created_at": "2026-04-07T20:46:17.217137+00:00"
-  },
-  {
     "id": "0431992c-3f24-4f1d-9db9-ae48449d5646",
     "title": "Pizza al farro",
     "slug": "pizza-al-farro",
