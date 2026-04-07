@@ -1,0 +1,50 @@
+{
+  "id": "af5bbc42-f17f-4d21-92f1-0c58918d5225",
+  "title": "Rosticciana | Costine alla Griglia",
+  "slug": "rosticciana-costine-alla-griglia",
+  "description": "Se non hai mai mangiato le BBQ ribs alla Rosticciana allora non hai mai mangiato la vera ricetta Toscana delle costine alla griglia! Questa ricetta ti spiegherà come grigliare delle perfette BBQ ribs all’italiana per ottenere una Rosticciana tenera e succosa.",
+  "ingredients": [
+    "1 Carrè di Ribs taglio St. Louis o Baby back",
+    "Rub Mediterraneo o in alternativa Trito Mediterraneo (origano, prezzemolo, rosmarino, pepe, sale, aglio)",
+    "Olio Evo",
+    "Senape delicata"
+  ],
+  "steps": [
+    "Per prima cosa bisogna rimuovere la Pleura, quella membrana sul retro delle costine che ha quel fastidioso effetto di cartone dopo la cottura. Per farlo, usa un coltello con la punta arrotondata o il manico di una forchetta per alzare un angolino e poi rimuoverla completamente tirandola con un pezzo di carta assorbente.",
+    "Con un coltello spelucchino, pulire bene dal grasso in eccesso le ribs. Questo perché il grasso in eccesso rischia di risultare stomachevole e colerebbe sulle braci.",
+    "Per dare sapore alle Ribs e trasformarle in Rosticciana, spalma su tutta la superficie una punta di senape dalla parte della ciccia.",
+    "Poi massaggia con olio EVO e cospargi abbondantemente con il trito mediterraneo (o le tue spezie preferite).",
+    "Ora siamo pronti per cuocere le costine alla griglia sulla brace diretta per circa 5 minuti per lato.",
+    "Per evitare che le costine risultino asciutte, avvolgile in un doppio strato di carta stagnola per farle continuare la cottura in una copertina confortevole. Rimettile sulla brace per altri 30 minuti.",
+    "Passati 30 minuti, rimuovi le ribs dal foil. A questo punto sono pronte come temperatura interna, ma la cottura nella stagnola crea un effetto “lesso”. Rimettile sulla brace viva fino a quando la superficie non risulti dorata e croccante.",
+    "A questo punto puoi servire la Rosticciana tagliandole una per una."
+  ],
+  "prep_time": 30,
+  "cook_time": 60,
+  "servings": 4,
+  "difficulty": null,
+  "categories": [
+    "secondi",
+    "carne"
+  ],
+  "notes": "È possibile preparare la rosticciana anche al forno, sgrassandola il più possibile per evitare un sapore stucchevole. Se il forno ha la modalità GRILL, può aiutare a formare la crosticina.",
+  "source_url": "https://atuttagriglia.com/ricette-barbecue/bbq-ribs-alla-rosticciana-le-costine-alla-griglia/",
+  "source_type": "url",
+  "image_urls": [
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-500x500.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-8-300x114.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-2-300x143.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-7-300x144.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-6-300x124.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-5-300x122.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-4-300x140.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-3-300x153.jpg",
+    "https://atuttagriglia.com/wp-content/uploads/2018/06/bbq-rib-rosticciana-costine-di-maiale-1-300x152.jpg"
+  ],
+  "video_urls": [
+    "https://www.youtube.com/watch?v=GjCuxxbjGX8"
+  ],
+  "created_at": "2026-04-07T20:41:23.285690+00:00",
+  "updated_at": null
+}
