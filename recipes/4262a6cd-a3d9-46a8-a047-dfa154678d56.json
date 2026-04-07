@@ -1,0 +1,52 @@
+{
+  "id": "4262a6cd-a3d9-46a8-a047-dfa154678d56",
+  "title": "Pizza in teglia al farro",
+  "slug": "pizza-in-teglia-al-farro",
+  "description": "Una ricetta per preparare una pizza in teglia con farina di farro, caratterizzata da una lunga lievitazione in frigorifero per un impasto leggero e digeribile.",
+  "ingredients": [
+    "Acqua 400 gr",
+    "Farina di farro 500 gr",
+    "Sale 10 gr",
+    "Lievito di birra fresco 3 gr",
+    "Olio di oliva 1 cucchiaio"
+  ],
+  "steps": [
+    "Sciogliere il lievito nell'acqua",
+    "Mettere tutta la farina in una ciotola e fare un buco in centro",
+    "Aggiungere poca acqua alla volta, amalgamandola con la farina con un cucchiaio di legno",
+    "Inserita tutta l'acqua, continuare a mescolare l'impasto e aggiungere il sale",
+    "Una volta amalgamato anche il sale, aggiungere anche l'olio e continuare ad impastare",
+    "Oliare una ciotola e metterci l'impasto a riposare per 10 minuti (l'impasto sarà molto morbido, ha un'alta idratazione)",
+    "Passato questo tempo, mettere l'impasto su una spianatoia e fare 4/5 giri di rinforzi: piegare l'impasto a portafoglio e mettere a riposo per 10 minuti",
+    "Finita la serie di rinforzi, mettere l'impasto in un contenitore ermetico (o chiuso con pellicola) oliato",
+    "Far riposare 22/24 ore in frigorifero",
+    "Passato il tempo di riposo, tirare fuori l'impasto (ben lievitato) e lasciare a temperatura ambiente per un'oretta",
+    "Passato questo tempo, si può stendere l'impasto: rovesciarlo sulla spianatoia e stenderlo solo con i polpastrelli",
+    "Scaldare il forno a 250 °C",
+    "Trasferire l'impasto nella teglia e condirlo a piacimento (per partire, mettere eventualmente solo olio o il pomodoro)",
+    "Mettere la teglia a contatto con la base del forno per 10 minuti",
+    "Trascorsi i primi 10 minuti, spostare la teglia a metà forno per altri 15/20 minuti",
+    "Gli ultimi 5 minuti, aggiungere gli ingredienti finali (mozzarella, prosciutto, ecc)"
+  ],
+  "prep_time": null,
+  "cook_time": 30,
+  "servings": null,
+  "difficulty": null,
+  "categories": [
+    "pizza",
+    "vegetariano"
+  ],
+  "notes": "Video su come impastare gli ingredienti. Video su come fare i rinforzi. Video su come stendere la pizza.",
+  "source_url": null,
+  "source_type": "manual",
+  "image_urls": [
+    "https://raw.githubusercontent.com/cekk/recipes-old/master/data/default.jpg"
+  ],
+  "video_urls": [
+    "https://youtu.be/WkebF-jotmw",
+    "https://youtu.be/Zsa-dyBBqkM",
+    "https://youtu.be/Wnx5FmASACo"
+  ],
+  "created_at": "2026-04-07T20:53:57.164826+00:00",
+  "updated_at": null
+}
