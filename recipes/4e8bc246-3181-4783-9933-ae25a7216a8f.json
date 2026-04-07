@@ -1,0 +1,52 @@
+{
+  "id": "4e8bc246-3181-4783-9933-ae25a7216a8f",
+  "title": "Pizza in teglia al farro",
+  "slug": "pizza-in-teglia-al-farro",
+  "description": "Una ricetta per preparare una deliziosa pizza in teglia utilizzando farina di farro, con una lunga lievitazione in frigorifero per un impasto leggero e digeribile.",
+  "ingredients": [
+    "400 gr Acqua",
+    "500 gr Farina di farro",
+    "10 gr Sale",
+    "3 gr Lievito di birra fresco",
+    "1 cucchiaio Olio di oliva"
+  ],
+  "steps": [
+    "Sciogliere il lievito nell'acqua",
+    "Mettere tutta la farina in una ciotola e fare un buco in centro",
+    "Aggiungere poca acqua alla volta, amalgamandola con la farina con un cucchiaio di legno",
+    "Inserita tutta l'acqua, continuare a mescolare l'impasto e aggiungere il sale",
+    "Una volta amalgamato anche il sale, aggiungere anche l'olio e continuare ad impastare",
+    "Oliare una ciotola e metterci l'impasto a riposare per 10 minuti (l'impasto sarà molto morbido, ha un'alta idratazione)",
+    "Passato questo tempo, mettere l'impasto su una spianatoia e fare 4/5 giri di rinforzi: piegare l'impasto a portafoglio e mettere a riposo per 10 minuti",
+    "Finita la serie di rinforzi, mettere l'impasto in un contenitore ermetico (o chiuso con pellicola) oliato",
+    "Far riposare 22/24 ore in frigorifero",
+    "Passato il tempo di riposo, tirare fuori l'impasto (ben lievitato) e lasciare a temperatura ambiente per un'oretta",
+    "Passato questo tempo, si può stendere l'impasto: rovesciarlo sulla spianatoia e stenderlo solo con i polpastrelli",
+    "Scaldare il forno a 250 °C",
+    "Trasferire l'impasto nella teglia e condirlo a piacimento (per partire, mettere eventualmente solo olio o il pomodoro)",
+    "Mettere la teglia a contatto con la base del forno per 10 minuti",
+    "Trascorsi i primi 10 minuti, spostare la teglia a metà forno per altri 15/20 minuti",
+    "Gli ultimi 5 minuti, aggiungere gli ingredienti finali (mozzarella, prosciutto, ecc)"
+  ],
+  "prep_time": 30,
+  "cook_time": 30,
+  "servings": null,
+  "difficulty": "medio",
+  "categories": [
+    "pizza",
+    "vegetariano"
+  ],
+  "notes": null,
+  "source_url": null,
+  "source_type": "manual",
+  "image_urls": [
+    "pizza_teglia_farro.jpg"
+  ],
+  "video_urls": [
+    "https://youtu.be/WkebF-jotmw",
+    "https://youtu.be/Zsa-dyBBqkM",
+    "https://youtu.be/Wnx5FmASACo"
+  ],
+  "created_at": "2026-04-07T20:46:17.217137+00:00",
+  "updated_at": null
+}
