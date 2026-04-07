@@ -1,0 +1,41 @@
+{
+  "id": "f8d29dad-6205-41ba-94ec-f5d64ad7198f",
+  "title": "Pane integrale",
+  "slug": "pane-integrale",
+  "description": "Una ricetta dettagliata per preparare il pane integrale fatto in casa, caratterizzato da un lungo processo di lievitazione che ne esalta il sapore e la consistenza.",
+  "ingredients": [
+    "Farina 00 (320-350 W) 500 grammi",
+    "Farina integrale 500 grammi",
+    "Acqua 680 grammi",
+    "Lievito di birra 10 grammi",
+    "Sale 20 grammi",
+    "Malto o miele 5 grammi"
+  ],
+  "steps": [
+    "Preparate la biga. In una ciotola capiente versate la farina 00, 230 g di acqua e 5 g di lievito di birra e impastate fino a ottenere un composto grezzo",
+    "Lasciate riposare l’impasto coperto con un canovaccio a temperatura ambiente per 16 - 18 ore.",
+    "In una ciotola versate la biga, la farina integrale, 5 g di lievito, il malto e 300 g di acqua e lavorate il tutto per 10 minuti",
+    "Aggiungete il sale e gradualmente i restanti 150 g di acqua e continuate a impastare per qualche minuto fino a quando non è completamente assorbita",
+    "Formate una sfera e lasciate riposare l’impasto in una ciotola coperta per circa 30 minuti",
+    "Dividete l’impasto in due panetti delle stesse dimensioni e lasciate riposare sulla spianatoia per 15 minuti",
+    "Riprendete i panetti dando loro la forma che preferite e metteteli a lievitare al caldo (27-30 °C)  su un telo, al coperto, per circa 60 minuti",
+    "Preriscaldate il forno a 220°C, incidete longitudinalmente le pagnotte e infornate per circa 50 - 60 minuti fino a completa cottura"
+  ],
+  "prep_time": null,
+  "cook_time": 50,
+  "servings": null,
+  "difficulty": null,
+  "categories": [
+    "pane",
+    "vegetariano"
+  ],
+  "notes": null,
+  "source_url": null,
+  "source_type": "manual",
+  "image_urls": [
+    "../default.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-04-07T20:45:33.321583+00:00",
+  "updated_at": null
+}
