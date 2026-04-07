@@ -1,5 +1,25 @@
 [
   {
+    "id": "ee62bff7-9ee2-45fa-a17c-803109980665",
+    "title": "Pane integrale",
+    "slug": "pane-integrale",
+    "description": "Una ricetta dettagliata per preparare il pane integrale fatto in casa, caratterizzato da un lungo processo di lievitazione che ne esalta il sapore e la consistenza.",
+    "categories": [
+      "pane"
+    ],
+    "prep_time": null,
+    "cook_time": 50,
+    "servings": null,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "manual",
+    "image_urls": [
+      "https://raw.githubusercontent.com/cekk/recipes-old/master/data/default.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-04-07T20:53:02.279608+00:00"
+  },
+  {
     "id": "5ff85775-60b2-458e-b025-105ab2ea2354",
     "title": "Pane senza impasto integrale",
     "slug": "pane-senza-impasto-integrale",
