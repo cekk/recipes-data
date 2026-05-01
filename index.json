@@ -1,5 +1,35 @@
 [
   {
+    "id": "ded9f384-e839-4b6b-9ed3-b240c88203d2",
+    "title": "Pancake classici",
+    "slug": "pancake-classici",
+    "description": "I pancake classici sono una preparazione semplice e veloce a base di uova, zucchero, latte e farina. Pochi ingredienti miscelati e cotti in padella danno vita a soffici dischetti spugnosi, perfetti per colazione o merenda, accompagnati da sciroppo d’acero, miele, frutta fresca o creme spalmabili.",
+    "categories": [
+      "dolci",
+      "colazione",
+      "veloce"
+    ],
+    "prep_time": 10,
+    "cook_time": 10,
+    "servings": null,
+    "difficulty": "facile",
+    "source_url": "https://www.lucake.it/pancake-classici/",
+    "source_type": "url",
+    "image_urls": [
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-300x200.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-1.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-3.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-classici.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/ricetta-pancake.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-originale.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-facili-e-veloci.jpg",
+      "https://www.lucake.it/wp-content/uploads/2022/09/come-fare-i-pancake-1.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-05-01T20:59:24.810824+00:00"
+  },
+  {
     "id": "c6fc4af1-6429-4453-8948-622e34473352",
     "title": "Seppie con piselli",
     "slug": "seppie-con-piselli",
