@@ -26,32 +26,6 @@
     "created_at": "2026-05-01T20:29:54.209721+00:00"
   },
   {
-    "id": "21708813-73dd-4839-a683-fe990ceaf90c",
-    "title": "Seppie con piselli",
-    "slug": "seppie-con-piselli",
-    "description": "Le Seppie con piselli sono un secondo piatto di pesce molto saporito, tipico della cucina italiana, una maniera facile e veloce per cucinare le seppie insieme al suo contorno. Bastano pochi ingredienti e una cottura lenta per ottenere un piatto gustoso e morbido in circa mezz'ora.",
-    "categories": [
-      "secondi",
-      "pesce",
-      "veloce",
-      "senza glutine"
-    ],
-    "prep_time": 5,
-    "cook_time": 35,
-    "servings": 4,
-    "difficulty": "facile",
-    "source_url": "https://www.tavolartegusto.it/ricetta/seppie-con-piselli/",
-    "source_type": "url",
-    "image_urls": [
-      "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/Seppie-con-piselli-Ricetta-Seppie-con-piselli.jpg",
-      "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/Seppie-con-piselli-Ricetta-Seppie-con-piselli-.jpg",
-      "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/aggiungere-le-seppioline-Ricetta-Seppie-con-piselli.jpg",
-      "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/aggiungere-i-piselli-alle-seppie-Ricetta-Seppie-con-piselli.jpg"
-    ],
-    "video_urls": [],
-    "created_at": "2026-04-30T21:56:33.088660+00:00"
-  },
-  {
     "id": "a9e9024f-cb55-4cc1-aa63-85ae9ec2cdf1",
     "title": "Rosticciana | Costine alla Griglia",
     "slug": "rosticciana-costine-alla-griglia",
