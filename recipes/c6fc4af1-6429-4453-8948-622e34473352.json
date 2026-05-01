@@ -1,0 +1,44 @@
+{
+  "id": "c6fc4af1-6429-4453-8948-622e34473352",
+  "title": "Seppie con piselli",
+  "slug": "seppie-con-piselli",
+  "description": "Le Seppie con piselli sono un secondo piatto di pesce molto saporito, tipico della cucina italiana. È una preparazione facile e veloce per cucinare le seppie in umido con il loro contorno, ottenendo un piatto gustoso e morbido in circa mezz'ora.",
+  "ingredients": [
+    "800 gr di seppie o seppioline (peso al netto già pulite)",
+    "450 gr di piselli (io pisellini primavera)",
+    "350 gr di pomodori pelati che preferite",
+    "1/2 cipolla bianca",
+    "4 – 5 cucchiai di olio extravergine",
+    "1/2 bicchiere di vino bianco secco",
+    "prezzemolo fresco",
+    "sale",
+    "pepe o peperoncino (facoltativo)"
+  ],
+  "steps": [
+    "Tritate finemente la cipolla, aggiungetela in una pentola capiente con l’olio e lasciate soffriggere 1 minuto fino a doratura. Per una versione light evitate questo passaggio e fate cuocere tutto insieme. Se volete aggiungere un tocco di piccante, fate soffriggere anche un pezzetto di peperoncino. Aggiungete in pentola le seppie precedentemente pulite, di cui avrete eliminato interiora e la sacca che contiene il nero. Se avete scelto le seppie intere, tagliatele a fette altrimenti, aggiungete le seppioline intere. Girate e fate insaporire mezzo minuto, aggiungete una parte di prezzemolo tritato finemente girate, infine sfumate con il vino bianco.",
+    "Fate cuocere a fiamma vivace 2 – 3 minuti, fino a quando il vino non è quasi del tutto sfumato. Aggiungete quindi i piselli, girate, aggiungete i pomodori pelati frullati.",
+    "Infine fate prendere il bollo, coprite con un coperchio e fate cuocere 20 – 25 minuti a fuoco moderato. Scoprite e lasciate cuocere gli ultimi 5 minuti a fiamma viva scoperta, aggiungete in questa fase un altro pò di prezzemolo tritato, un cucchiaio di olio se gradite e infine, quando il sughetto si è ristretto, aggiungete sale e se gradite un pizzico di pepe. Ecco pronte le vostre Seppie con piselli!"
+  ],
+  "prep_time": 5,
+  "cook_time": 35,
+  "servings": 4,
+  "difficulty": "facile",
+  "categories": [
+    "secondi",
+    "pesce",
+    "veloce",
+    "senza glutine"
+  ],
+  "notes": "Conservare in frigo per 3 giorni circa; il giorno dopo sono ancora più buone. Basterà scaldarle con qualche cucchiaio di acqua e un po' di prezzemolo tritato.",
+  "source_url": "https://www.tavolartegusto.it/ricetta/seppie-con-piselli/",
+  "source_type": "url",
+  "image_urls": [
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/Seppie-con-piselli-Ricetta-Seppie-con-piselli.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/Seppie-con-piselli-Ricetta-Seppie-con-piselli-.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/aggiungere-le-seppioline-Ricetta-Seppie-con-piselli.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2019/04/aggiungere-i-piselli-alle-seppie-Ricetta-Seppie-con-piselli.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-05-01T20:29:54.209721+00:00",
+  "updated_at": null
+}
