@@ -1,35 +1,5 @@
 [
   {
-    "id": "04ab0df4-e9d4-42c0-abcc-3b39c9621080",
-    "title": "Pancake classici",
-    "slug": "pancake-classici",
-    "description": "La ricetta originale dei pancake che si prepara con pochi ingredienti. Perfetti per colazione accompagnati con miele, frutta, confettura...",
-    "categories": [
-      "dolci",
-      "colazione",
-      "veloce"
-    ],
-    "prep_time": 10,
-    "cook_time": 10,
-    "servings": null,
-    "difficulty": "facile",
-    "source_url": "https://www.lucake.it/pancake-classici/",
-    "source_type": "url",
-    "image_urls": [
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-300x200.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-1.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-3.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-classici.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/ricetta-pancake.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-ricetta-originale.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/pancake-facili-e-veloci.jpg",
-      "https://www.lucake.it/wp-content/uploads/2022/09/come-fare-i-pancake-1.jpg"
-    ],
-    "video_urls": [],
-    "created_at": "2026-05-01T20:59:28.925976+00:00"
-  },
-  {
     "id": "ded9f384-e839-4b6b-9ed3-b240c88203d2",
     "title": "Pancake classici",
     "slug": "pancake-classici",
