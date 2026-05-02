@@ -1,5 +1,26 @@
 [
   {
+    "id": "9b2975ca-fc3a-4531-a5ec-c55151cd9a44",
+    "title": "Brazadela",
+    "slug": "brazadela",
+    "description": "La brazadela è un dolce semplice, rustico e leggermente biscottato, perfetto da intingere nel latte o nel vino!",
+    "categories": [
+      "dolci"
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 8,
+    "difficulty": null,
+    "source_url": "https://share.google/UGMUlwWbOKJo38s0r",
+    "source_type": "url",
+    "image_urls": [
+      "https://www.soniaperonaci.it/wp-content/uploads/2021/04/Brazadela-3.jpg",
+      "https://www.soniaperonaci.it/wp-content/uploads/2021/04/Brazadela-2.jpg"
+    ],
+    "video_urls": [],
+    "created_at": "2026-05-02T19:03:03.618891+00:00"
+  },
+  {
     "id": "ded9f384-e839-4b6b-9ed3-b240c88203d2",
     "title": "Pancake classici",
     "slug": "pancake-classici",
