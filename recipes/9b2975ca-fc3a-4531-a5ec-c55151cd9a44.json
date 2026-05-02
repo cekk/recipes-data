@@ -1,0 +1,42 @@
+{
+  "id": "9b2975ca-fc3a-4531-a5ec-c55151cd9a44",
+  "title": "Brazadela",
+  "slug": "brazadela",
+  "description": "La brazadela è un dolce semplice, rustico e leggermente biscottato, perfetto da intingere nel latte o nel vino!",
+  "ingredients": [
+    "farina 00 300 g",
+    "zucchero 130 g",
+    "burro fuso 80 g",
+    "uova 2 medie",
+    "latte fresco intero 20-30 g",
+    "limone la scorza grattugiata di 1",
+    "liquore all’anice 15 g",
+    "lievito in polvere per dolci 8 g",
+    "sale fino 2 g",
+    "granella di zucchero 20 g (per spennellare)",
+    "latte 10 g (per spennellare)"
+  ],
+  "steps": [
+    "Fai sciogliere il burro e lascialo intiepidire. A parte in una ciotola aggiungi la farina, lo zucchero, il lievito per dolci, il sale e la scorza di limone grattugiato, poi unisci le uova, il liquore all’anice e il burro fuso. Impasta fino a compattare gli ingredienti.",
+    "Stendi su un foglio di carta da forno l’impasto e crea un filoncino con le mani delle dimensioni di cm 10×20 cm circa, alto un paio di centimetri. Appiattisci la superficie con il palmo della mano, spennellala con il latte e cospargila con la granella di zucchero.",
+    "Cuoci in forno statico a 170° per circa 30 minuti. Il dolce dovrà risultare ben dorato.",
+    "Una volta cotta la brazadela, estraila dal forno e lasciala raffreddare prima di servirla."
+  ],
+  "prep_time": 15,
+  "cook_time": 30,
+  "servings": 8,
+  "difficulty": null,
+  "categories": [
+    "dolci"
+  ],
+  "notes": "Nei dolci romagnoli è spesso presente il profumo di anice: se non vuoi usare un liquore (anche se la parte alcolica in cottura si volatilizza, quindi non ci sono problemi per i bambini), puoi usare dei semi di anice finemente pestati. Per una versione decisamente moderna, puoi dividere l’impasto a metà e aggiungere un paio di cucchiai di cacao e un cucchiaio di latte ad una parte, per una versione bigusto! La brazadela veniva accompagnata con del latte o del vino, a seconda dell’età dei commensali. La brazadela è un dolce rustico e friabile: si conserva in una scatola di latta perfettamente anche per una settimana. Non consiglio la congelazione.",
+  "source_url": "https://share.google/UGMUlwWbOKJo38s0r",
+  "source_type": "url",
+  "image_urls": [
+    "https://www.soniaperonaci.it/wp-content/uploads/2021/04/Brazadela-3.jpg",
+    "https://www.soniaperonaci.it/wp-content/uploads/2021/04/Brazadela-2.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-05-02T19:03:03.618891+00:00",
+  "updated_at": null
+}
