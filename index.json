@@ -1,5 +1,28 @@
 [
   {
+    "id": "3faa6c7d-f7be-428f-ac7b-a1cb26906df5",
+    "title": "Schiacciata di zucca",
+    "slug": "schiacciata-di-zucca",
+    "description": "La schiacciata di zucca è un piatto amato dall'autore, ideale per il periodo autunnale. È un cavallo di battaglia facile da preparare.",
+    "categories": [
+      "antipasti",
+      "vegetariano"
+    ],
+    "prep_time": null,
+    "cook_time": 45,
+    "servings": null,
+    "difficulty": null,
+    "source_url": "https://www.instagram.com/reel/DeT0hAqBIp6/",
+    "source_type": "instagram",
+    "image_urls": [
+      "https://raw.githubusercontent.com/cekk/recipes-data/main/images/3faa6c7d-f7be-428f-ac7b-a1cb26906df5.jpg"
+    ],
+    "video_urls": [
+      "https://www.instagram.com/reel/DeT0hAqBIp6/"
+    ],
+    "created_at": "2026-10-13T21:05:49.251570+00:00"
+  },
+  {
     "id": "462fdae8-bde9-45af-9568-8b2bd0fe0112",
     "title": "Muffin al cioccolato",
     "slug": "muffin-al-cioccolato",
