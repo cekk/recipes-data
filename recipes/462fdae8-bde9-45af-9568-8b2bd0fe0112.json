@@ -1,0 +1,52 @@
+{
+  "id": "462fdae8-bde9-45af-9568-8b2bd0fe0112",
+  "title": "Muffin al cioccolato",
+  "slug": "muffin-al-cioccolato",
+  "description": "I Muffin al cioccolato sono gli iconici dolcetti americani soffici, veloci e golosi, con impasto al cacao e gocce di cioccolato, perfetti come nelle migliori Bakery degli States!",
+  "ingredients": [
+    "190 gr di farina ’00",
+    "50 gr di cacao amaro",
+    "150 gr di zucchero",
+    "180 ml di latte intero (o latte di soia/scremato)",
+    "65 gr di burro fuso freddo (o 65 ml di olio di semi di girasole)",
+    "2 uova intere",
+    "1 cucchiaino di lievito per dolci",
+    "125 gr di gocce di cioccolato fondente (o pepite/scaglie)",
+    "1 cucchiaino di estratto di vaniglia (o semi di mezza bacca/una bustina)",
+    "1 pizzico di sale"
+  ],
+  "steps": [
+    "Mescolate l’uovo con il latte e l'olio (o burro fuso) usando una frusta a mano.",
+    "A parte, setacciate cacao, farina e lievito, poi aggiungete zucchero e un pizzico di sale.",
+    "Mescolate il cioccolato scelto (gocce/pepite) e mettetene da parte 2 cucchiai. Il resto aggiungetelo al mix di farine.",
+    "Unite il mix di cioccolato e farine agli ingredienti liquidi, mescolando con un cucchiaio per pochi secondi (non troppo).",
+    "Versate l’impasto nei pirottini, precedentemente adagiati nello stampo per muffin, riempiendoli fino a mezzo centimetro dal bordo.",
+    "Completate aggiungendo sulla superficie le gocce di cioccolato messe da parte.",
+    "Cuocete nella parte medio-alta del forno già caldo statico a 190° (ventilato 170°) per circa 25 minuti. Non aprite il forno finché non si è formata una bella cupola. Negli ultimi 5-6 minuti, dopo la formazione della cupola e senza aprire, abbassate di 10° per favorire un interno morbido.",
+    "Spegnete il forno, lasciate i muffin dentro per 1 minuto, poi sfornateli.",
+    "Lasciate raffreddare su una gratella per almeno 30 minuti prima di servirli, facendo attenzione a non toccare la superficie per non rovinare le gocce."
+  ],
+  "prep_time": 5,
+  "cook_time": 25,
+  "servings": 8,
+  "difficulty": "facile",
+  "categories": [
+    "dolci",
+    "veloce",
+    "colazione",
+    "vegetariano"
+  ],
+  "notes": "Per una versione senza glutine, utilizzare farina di riso o un mix gluten free. I muffin si conservano morbidissimi per 5 giorni se sigillati con pellicola a contatto una volta freddi. Possono essere congelati appena freddi e scongelati a temperatura ambiente, consumandoli entro 24 ore. È possibile aprire il forno dopo circa 20 minuti, quando la cupola si è formata, per controllare la cottura.",
+  "source_url": "https://www.tavolartegusto.it/ricetta/ricetta-muffin-al-cioccolato/",
+  "source_type": "url",
+  "image_urls": [
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/09/Muffin-al-cioccolato-morbidi-Ricetta-Muffin-al-cioccolato-1-1.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/09/Come-fare-limpasto-veloce-dei-muffin-al-cioccolato-Ricetta-Muffin-al-cioccolato.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/09/Aggiungere-gocce-di-cioccolato-Ricetta-Muffin-al-cioccolato-.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/09/Muffin-al-cioccolato-morbidi-Ricetta-Muffin-al-cioccolato.jpg",
+    "https://www.tavolartegusto.it/wp/wp-content/uploads/2018/09/muffin-al-cioccolato-ricetta-americana.jpg"
+  ],
+  "video_urls": [],
+  "created_at": "2026-10-13T20:37:12.980741+00:00",
+  "updated_at": null
+}
