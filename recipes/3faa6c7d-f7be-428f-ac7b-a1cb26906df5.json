@@ -1,0 +1,41 @@
+{
+  "id": "3faa6c7d-f7be-428f-ac7b-a1cb26906df5",
+  "title": "Schiacciata di zucca",
+  "slug": "schiacciata-di-zucca",
+  "description": "La schiacciata di zucca è un piatto amato dall'autore, ideale per il periodo autunnale. È un cavallo di battaglia facile da preparare.",
+  "ingredients": [
+    "500/600 g di zucca Butternut cruda grattugiata",
+    "300ml di acqua",
+    "250g di farina 00 oppure integrale oppure di ceci",
+    "50g di parmigiano",
+    "Rosmarino qb",
+    "Sale qb",
+    "Olio evo qb"
+  ],
+  "steps": [
+    "Dopo aver grattugiato la zucca, unirla in una ciotola con il resto degli ingredienti.",
+    "Mescolare il tutto e preriscaldare il forno a 230° statico oppure 220° ventilato.",
+    "Stendere un foglio di carta forno sulla teglia e cospargere con poco olio.",
+    "Versare il composto e appiattire su tutta la superficie.",
+    "Cuocere per circa 45/50’ controllando che non si bruci e regolandosi con il proprio forno."
+  ],
+  "prep_time": null,
+  "cook_time": 45,
+  "servings": null,
+  "difficulty": null,
+  "categories": [
+    "antipasti",
+    "vegetariano"
+  ],
+  "notes": null,
+  "source_url": "https://www.instagram.com/reel/DeT0hAqBIp6/",
+  "source_type": "instagram",
+  "image_urls": [
+    "https://raw.githubusercontent.com/cekk/recipes-data/main/images/3faa6c7d-f7be-428f-ac7b-a1cb26906df5.jpg"
+  ],
+  "video_urls": [
+    "https://www.instagram.com/reel/DeT0hAqBIp6/"
+  ],
+  "created_at": "2026-10-13T21:05:49.251570+00:00",
+  "updated_at": null
+}
