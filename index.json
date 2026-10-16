@@ -1,5 +1,27 @@
 [
   {
+    "id": "a9454cff-0e33-4637-a2b8-37b892a12007",
+    "title": "Pancake Pera e Crema 100% di Nocciole - Senza Zucchero - Senza Uova",
+    "slug": "pancake-pera-e-crema-100-di-nocciole-senza-zucchero-senza-uova",
+    "description": "Pancake super soffici e naturalmente dolci, preparati con pera, farina, bevanda d'avena e crema 100% di nocciole. Sono perfetti per colazione o merenda e piaceranno a tutta la famiglia.",
+    "categories": [
+      "dolci",
+      "colazione",
+      "vegetariano",
+      "vegan",
+      "veloce"
+    ],
+    "prep_time": null,
+    "cook_time": null,
+    "servings": 7,
+    "difficulty": null,
+    "source_url": null,
+    "source_type": "screenshot",
+    "image_urls": [],
+    "video_urls": [],
+    "created_at": "2026-10-16T15:07:51.932050+00:00"
+  },
+  {
     "id": "3faa6c7d-f7be-428f-ac7b-a1cb26906df5",
     "title": "Schiacciata di zucca",
     "slug": "schiacciata-di-zucca",
