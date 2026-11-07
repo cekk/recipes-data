@@ -1,5 +1,29 @@
 [
   {
+    "id": "8ad69196-b0af-4bb8-9fc5-67b9a1b289af",
+    "title": "Cookies al cacao, doppio cioccolato e noci",
+    "slug": "cookies-al-cacao-doppio-cioccolato-e-noci",
+    "description": "Cookies ripieni, croccanti fuori e morbidissimi al centro, con un tocco di cioccolato extra. Sono un'unione perfetta di burro montato con zucchero di canna, cacao amaro, noci e cioccolato fondente e al latte, facili da preparare per una merenda golosa.",
+    "categories": [
+      "dolci",
+      "veloce",
+      "colazione"
+    ],
+    "prep_time": null,
+    "cook_time": null,
+    "servings": null,
+    "difficulty": "facile",
+    "source_url": "https://www.instagram.com/reel/DfcbpLjunzy/",
+    "source_type": "instagram",
+    "image_urls": [
+      "https://raw.githubusercontent.com/cekk/recipes-data/main/images/8ad69196-b0af-4bb8-9fc5-67b9a1b289af.jpg"
+    ],
+    "video_urls": [
+      "https://www.instagram.com/reel/DfcbpLjunzy/"
+    ],
+    "created_at": "2026-11-07T23:44:27.516445+00:00"
+  },
+  {
     "id": "a9454cff-0e33-4637-a2b8-37b892a12007",
     "title": "Pancake Pera e Crema 100% di Nocciole - Senza Zucchero - Senza Uova",
     "slug": "pancake-pera-e-crema-100-di-nocciole-senza-zucchero-senza-uova",
