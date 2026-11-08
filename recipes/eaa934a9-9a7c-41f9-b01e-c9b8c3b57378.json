@@ -1,0 +1,42 @@
+{
+  "id": "eaa934a9-9a7c-41f9-b01e-c9b8c3b57378",
+  "title": "Pancake",
+  "slug": "pancake",
+  "description": "Una ricetta semplice per preparare 5 deliziosi pancake, perfetti per una colazione per due persone, da servire con Fiordifrutta Frutti di bosco.",
+  "ingredients": [
+    "100 g farina 00",
+    "1 cucchiaino lievito in polvere",
+    "1 cucchiaio zucchero",
+    "Un pizzico di sale",
+    "1 uovo",
+    "115 g yogurt bianco",
+    "20 g burro",
+    "1 bacca di vaniglia (semi)",
+    "1 tuorlo, 1 cucchiaio latte e granella di zucchero (per spennellare)",
+    "Fiordifrutta Frutti di bosco (per servire)"
+  ],
+  "steps": [
+    "Sciogliete il burro e lasciatelo intiepidire.",
+    "Mescolate gli ingredienti secchi.",
+    "A parte amalgamate quelli umidi con la vaniglia e il burro.",
+    "Unite brevemente ingredienti secchi e umidi.",
+    "Cuocete i pancake con il coperchio, 2 minuti per lato.",
+    "Spennellate i pancake con il tuorlo sbattuto con il latte, cospargete la granella e passateli 2 minuti in friggitrice ad aria a 200 °C (o in forno).",
+    "Serviteli con Fiordifrutta Frutti di bosco, da intingere o spalmata sopra. BUON PANCAKE :)"
+  ],
+  "prep_time": null,
+  "cook_time": null,
+  "servings": 2,
+  "difficulty": null,
+  "categories": [
+    "colazione",
+    "dolci"
+  ],
+  "notes": "TRUCCO EDEN: per farli sembrare ancora di più dei cornetti, tagliate una tasca di lato con il coltello e riempitela di Fiordifrutta con una sac à poche. Ricetta in collaborazione con @fiordifrutta_rigonidiasago.",
+  "source_url": null,
+  "source_type": "screenshot",
+  "image_urls": [],
+  "video_urls": [],
+  "created_at": "2026-11-08T16:24:05.358184+00:00",
+  "updated_at": null
+}
